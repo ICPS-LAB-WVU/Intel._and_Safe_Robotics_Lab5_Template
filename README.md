@@ -1,6 +1,6 @@
 # Intel._and_Safe_Robotics_Lab5_Template
 
-# Lab 6: SLAM and Pure Pursuit
+# Lab 6: SLAM and Pure Pursuit 
 
 ## I. Learning Goals
 
